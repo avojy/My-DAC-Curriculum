@@ -27,7 +27,7 @@ Task:
 Task:
 Generate a list of numbers starting from 15 and decreasing by 3 each step, until the number is positive (not inclusive of zero). Store it in a variable named desc_list.
 
-Question 5: Generating Lists
+**Question 5: Generating Lists**
 Task:
 Generate a list of numbers starting from 2, increasing by 2 each step, until the list contains 14 elements. Store it in a variable named asc_list.
 
